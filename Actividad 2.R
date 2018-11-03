@@ -1,0 +1,1 @@
+write.csv("Hola Mundo//C://Users//bianc//Desktop//Actividad1//texto.txt.")
